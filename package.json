@@ -7,14 +7,11 @@
   "dependencies": {
     "allure-commandline": "^2.13.0",
     "cross-env": "^6.0.3",
-    "jasmine-allure-reporter": "^1.0.2",
-    "superagent": "^5.1.0",
-    "superagent-proxy": "^2.0.0"
+    "jasmine-allure-reporter": "^1.0.2"
   },
   "devDependencies": {
     "@types/jasminewd2": "~2.0.3",
     "jasmine-core": "~3.4.0",
-    "jasmine-spec-reporter": "~4.2.1",
-    "protractor": "~5.4.2"
+    "jasmine-spec-reporter": "~4.2.1"
   }
 }
